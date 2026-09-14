@@ -7,7 +7,7 @@ dill
 hydra-core
 numpy
 pandas
-peft<=0.17.1
+peft<=0.20.0
 pyarrow>=19.0.0
 pybind11
 pylatexenc
